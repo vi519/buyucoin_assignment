@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/buyucoin_assignment/static/css/main.0b111659.css",
+    "main.js": "/buyucoin_assignment/static/js/main.a22022ff.js",
+    "static/js/787.72185b56.chunk.js": "/buyucoin_assignment/static/js/787.72185b56.chunk.js",
+    "index.html": "/buyucoin_assignment/index.html",
+    "main.0b111659.css.map": "/buyucoin_assignment/static/css/main.0b111659.css.map",
+    "main.a22022ff.js.map": "/buyucoin_assignment/static/js/main.a22022ff.js.map",
+    "787.72185b56.chunk.js.map": "/buyucoin_assignment/static/js/787.72185b56.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b111659.css",
+    "static/js/main.a22022ff.js"
+  ]
+}
