@@ -1,24 +1,25 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
+import CryptoChart from './CryptoChart';
+import LiveData from './LiveData';
+import SymbolChart from './SymbolChart';
+import CurrencyTable from './CurrencyTable';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <><header className='header'>React Assignment By Vineet Mishra</header><div className="App">
+
+
+      <div><CurrencyTable /></div>
+      <div><LiveData /></div>
+      <div><CryptoChart /></div>
+      <div><SymbolChart /></div>
+
+    </div></>
+        
+        
+        
+
   );
 }
 
